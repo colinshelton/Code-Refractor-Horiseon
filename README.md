@@ -12,6 +12,7 @@ Pre Code:
 Website errors:
 - "SEO" color differentiation in title looks like a mistake, create solution to make this look intentional 
 - nav: SEO tab link does not work 
+    resolved: addition of id="search-engine-optimization"
 - accessability in img. isn't up to standards (may want to check standards)
 
 Resolved:
